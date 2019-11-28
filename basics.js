@@ -1,4 +1,4 @@
-// wednasday 28/11/2019 06:43 PM
+// wednesday 28/11/2019 06:43 PM
 
 // Types
 // Number
